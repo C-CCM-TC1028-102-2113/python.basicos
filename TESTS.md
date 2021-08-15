@@ -50,6 +50,11 @@ sudo -H pip3 install pytest
     ```
     pytest assignments/06Peso
     ```
+- ## 07 Pendiente Línea
+    ### Run command
+    ```
+    pytest assignments/07PendienteLinea
+    ```
 - ## 11 PEMDAS
     ### Run command
     ```
@@ -57,9 +62,4 @@ sudo -H pip3 install pytest
     ```
 
 
-- ## 21 Levadura para Pizza
-    ### Run command
-    ```
-    pytest assignments/21LevaduraParaPizza
-    ```
 

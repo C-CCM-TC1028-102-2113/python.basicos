@@ -8,5 +8,5 @@
 - 04 Calcula tiempo
 - 05 Calcula lustros
 - 06 Calcula peso por mes
+- 07 Pendiente de una línea
 - 11 PEMDAS
-- 21 Levadura para Pizza
